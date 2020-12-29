@@ -71,3 +71,4 @@ jobs:
           github_token: ${{ secrets.JEKYLL_PAT }}
           target_branch: "gh_pages"
           publish_dir: ./docs
+          #check
