@@ -35,9 +35,9 @@ jobs:
           jekyll_src: "beautifulnature.github.io"
 
       # Specify the target branch (optional)
-      - uses: helaili/jekyll-action@2.0.4
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+      - name: 🚀 deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
+          github_token: ${{ secrets.JEKYLL_PAT }}
           target_branch: "gh_pages"
           publish_dir: ./docs
