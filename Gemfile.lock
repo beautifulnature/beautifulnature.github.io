@@ -269,7 +269,7 @@ PLATFORMS
   # bundle lock -unknown
   # x64-mingw32
   ruby
-  # x64-mingw32
+  x64-mingw32
 
 DEPENDENCIES
   asciidoctor (~> 1.5)
