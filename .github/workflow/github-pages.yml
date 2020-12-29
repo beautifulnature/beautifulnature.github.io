@@ -9,7 +9,7 @@ on:
       # specific branch, eg. master or source (if on *.github.io repo)
 
 jobs:
-  workflow:
+  github-pages:
     runs-on: ubuntu-16.04
     steps:
       - name: 📂 setup
