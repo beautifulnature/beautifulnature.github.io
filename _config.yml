@@ -301,6 +301,7 @@ compress_html:
     envs: development
 
 asciidoctor:
+  safe: unsafe
   attributes:
     - idseparator=_
     - source-highlighter=coderay
