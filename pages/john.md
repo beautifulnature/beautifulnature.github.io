@@ -1,0 +1,4 @@
+- {{query  (and [[john]] [[inbox]] )}}
+- leader of the group
+- calls with john
+	- discussed picking up fishing equipment

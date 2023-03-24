@@ -1,0 +1,16 @@
+- Work Todos
+	- {{query (and (todo todo) [[work]] )}}
+	  query-table:: false
+- Personal todos
+	- {{query (and (todo todo) [[personal]] )}}
+	-
+- Todos
+	- {{query  (todo todo)}}
+	-
+	-
+-
+-
+-
+-
+-
+-

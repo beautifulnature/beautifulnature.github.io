@@ -1,0 +1,15 @@
+- Websites
+	- https://chat.openai.com/chat
+	- https://www.phind.com/
+	- https://platform.openai.com/playground?mode=chat
+- DB
+	- AI products
+		- SQLize.online
+- Graphics
+	- https://www.yworks.com/products/yed
+- Cli
+	- Tabby
+		- Video - https://www.youtube.com/watch?v=-yfuYPowUDE
+- Windows shortcuts
+- Browser shortcuts
+	- Ctrl + Shift + O => to open bookmarks

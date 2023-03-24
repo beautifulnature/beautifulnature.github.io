@@ -1,0 +1,53 @@
+:root {
+  font-size: 18px !important;
+}
+
+a.tag[data-ref] {
+  font-size: 18px !important;
+}
+	
+h1, h2, h3, h4 {
+  color: #3f74bf;
+}
+
+.blocks-container i {
+  color: #FF0000;
+}
+
+b {
+  text-decoration: underline #ffce54 solid 2px;
+}
+
+mark {
+  font-weight: bold;
+}
+
+/* Hide "table view" from queries */
+div.mx-2 {
+  display: none;
+}
+
+/* Hide "Set Properties" from queries */
+.table-query-properties .text-sm {
+  display: none;
+}
+
+/* Remove the actual query displayed in simple query tables */
+.query-title {
+  display: none;
+}
+
+/* Style the heading row of Query Table */
+th {
+  font-size: 1.2rem;
+  color: #3f74bf;
+  font-weight: bold;
+  text-transform: capitalize;
+  background-color: #ffce54;
+  border-radius: 10px;
+}
+
+/* Wrap text in query table */
+td {
+    white-space: pre-wrap !important;
+}

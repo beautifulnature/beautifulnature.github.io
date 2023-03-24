@@ -1,0 +1,6 @@
+- [[processing]]
+	- resources
+		- youtube
+			- [The coding Train](https://youtube.com/user/shiffman)
+		- blogs
+			- https://dynamicmath.xyz

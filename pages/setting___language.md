@@ -1,0 +1,15 @@
+- You can set your language preference via `Settings`
+- Logseq currently supports:
+	- English
+	- French
+	- German
+	- Simplified Chinese
+	- Traditional Chinese
+	- Afrikaans
+	- Spanish
+	- Norwegian
+	- Portuguese
+	- Russian
+- Related:
+	- [[Internationalization]]
+	- {{embed ((63db7b87-9d14-4802-a314-e67a0204831d))}}

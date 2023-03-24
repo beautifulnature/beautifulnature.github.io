@@ -1,0 +1,9 @@
+- description:
+	- a clickable link that will take you to a particular Logseq page
+- produced by:
+	- putting a block link inside markdown link syntax like this:
+		- {{embed ((63da39e3-0ebc-4f73-8076-12b676b8a3a2))}}
+	- putting a block link inside org-mode link syntax like this:
+		- TODO org mode
+- example:
+	- i'm a markdown page link [[mallard]] with custom display text: [i quack like a duck]([[mallard]])

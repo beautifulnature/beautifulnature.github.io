@@ -1,0 +1,7 @@
+- Logseq comes with 3 default theme modes:
+	- `light` mode
+	- `dark` mode
+	- `system` mode will choose between `light` and `dark` mode based on your operating system's theme mode
+- You can toggle between `light` or `dark` mode with command `t t` when not in text editing
+- ![CleanShot_202021-05-29_20at_2000.51.24@2x_1622220701200_0.png](../assets/CleanShot_202021-05-29_20at_2000.51.24@2x_1622220701200_0_1675328047727_0.png)
+	-

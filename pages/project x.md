@@ -1,0 +1,4 @@
+- This is an example project and involves
+- Status update
+	- [[2022-11-01-Call]]
+	-

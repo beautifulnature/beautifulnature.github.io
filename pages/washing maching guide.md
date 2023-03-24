@@ -1,0 +1,9 @@
+- ![Parangat-Final-17-9-2015.pdf](../assets/Parangat-Final-17-9-2015_1669363433363_0.pdf)
+- Chapter 1
+	- ((638079cc-d121-4735-8a89-43fc689a7e3f))
+	- ((638079e7-7e6d-47f5-8db8-946ef260a22b))
+	- Key - on / off button - if off, will not work
+	- spin speed - is this important base don fabric?
+	- ((63807aeb-6536-47a3-b59a-b53b6a353072))
+	-
+	-

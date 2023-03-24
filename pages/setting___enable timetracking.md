@@ -1,0 +1,1 @@
+- Logseq has built in ((63db4dd4-3576-41e6-a631-1a2263c0473e)) enabled by default, and you can disable it from `Settings` page

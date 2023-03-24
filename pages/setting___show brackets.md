@@ -1,0 +1,6 @@
+- You can leverage `show brackets` settings to toggle whether display brackets or not
+- Alternatively press `Ctrl+c Ctrl+b` to toggle this setting when not in text editng
+- demo:
+	- [[example1]]
+	- [[example2]]
+	-

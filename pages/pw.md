@@ -1,0 +1,6 @@
+- mysql: localhost: root s3cret
+	- mysqld --console
+- openkm
+	- db: okmdb (openkm s3cret)
+	- web: okmAdmin admin
+- 10.9.1.80 sbe12 sbe@12

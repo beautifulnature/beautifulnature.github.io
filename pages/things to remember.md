@@ -1,0 +1,5 @@
+- Link: https://medium.com/better-advice/how-to-fit-in-but-stay-true-to-yourself-169861d924ef
+	- things to keep in mind
+	- do not be scared to think outside the box and use imagination
+	- As you get older you become more aware and possiblities increase
+		- Do not let them pass you by

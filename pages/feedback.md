@@ -1,0 +1,4 @@
+- Feedback for John
+	- [[Nov 26th, 2022]]
+		- come on man, don't eat all the cake
+- {{query  (and [[john]] [[feedback]] )}}

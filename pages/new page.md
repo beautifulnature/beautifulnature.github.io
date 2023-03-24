@@ -1,0 +1,3 @@
+- note on [[clever notes]]
+- note also on [[notetaking]]
+-
